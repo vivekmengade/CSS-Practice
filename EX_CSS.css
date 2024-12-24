@@ -53,3 +53,9 @@ div{
 #groove{
     border: 5px groove white;
 }
+#ridge{
+    border: 5px ridge white;
+}
+#hidden{
+    border: 5px hidden white;
+}
