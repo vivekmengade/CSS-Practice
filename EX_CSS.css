@@ -26,3 +26,30 @@ div{
     font-size: 40pt;
     border: 5px dotted red;
 }
+#dashed{
+    border: 2px dashed white;
+}
+#dotted{
+    border: 2px dotted white;
+}
+#solid{
+    border: 2px solid white;
+}
+#double{
+    border: 2px double white;
+}
+#inset{
+    border: 2px inset white;
+}
+#outset{
+    border: 2px outset white;
+}
+#none{
+    border: none;
+}
+#fixed{
+    border: 5px fixed white;
+}
+#groove{
+    border: 5px groove white;
+}
