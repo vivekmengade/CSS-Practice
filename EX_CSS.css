@@ -6,3 +6,23 @@
 h1{
     color: aquamarine;
 }
+p{
+    color: white;
+    font-size: 25pt;
+}
+#id1{
+    color: green;
+    background: red;
+    border: 2px dashed white;
+}
+.class1{
+    color: red;
+    background: green;
+    border: 1px solid white;
+}
+div{
+    background-color: aquamarine;
+    color: orange;
+    font-size: 40pt;
+    border: 5px dotted red;
+}
