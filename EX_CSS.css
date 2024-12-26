@@ -64,7 +64,7 @@ div{
     border: 2px dotted white;
 }
 #p2{
-    border: 2px dotted red;
+    border: 2px dotted #00ffff;
     padding: 100px 400px 100px 400px;
     margin: 100px 600px 25px 400px;
     font-size: 25pt;
