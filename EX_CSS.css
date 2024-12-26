@@ -59,3 +59,11 @@ div{
 #hidden{
     border: 5px hidden white;
 }
+
+#p1{
+    border: 2px dotted white;
+}
+#p2{
+    border: 2px dotted red;
+    padding: 100px 20px 100px 400px;
+}
