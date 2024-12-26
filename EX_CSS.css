@@ -70,3 +70,20 @@ div{
     font-size: 25pt;
     color: tomato;
 }
+#decore{
+    width: 500px;
+    border: 1px solid white;
+    text-align: center;
+    direction: rtl;
+    text-transform: lowercase;
+}
+#decore2{
+    width: 1000px;
+    height: 500px;
+    border: 1px solid blue;
+    text-align: center;
+    direction: rtl;
+    text-transform: lowercase;
+    text-decoration: wavy;
+    text-decoration: underline overline line-through;
+}
