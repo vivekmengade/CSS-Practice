@@ -17,6 +17,7 @@
         background-color: rgb(165, 147, 42);
     }
     50%{
+        width: 250px;
         background-color: rgb(52, 165, 42);
     }
     75%{
@@ -29,18 +30,27 @@
 
 #heading{
     background-color: brown;
-    height: 200px;
-    width: 200px;
+    height: 100px;
+    width: 100px;
     animation-name: changecolor;
-    animation-duration: 1s;
+    animation-duration: 2s;
     animation-iteration-count: infinite;
+    /* animation-direction: reverse; */
+    animation-direction: alternate;
+    animation-timing-function:cubic-bezier();
 }
 
 #heading2{
     background-color: brown;
-    height: 200px;
-    width: 200px;
+    height: 100px;
+    width: 100px;
     animation-name: changecolor;
     animation-duration: 2s;
     animation-iteration-count: infinite;
+    animation-timing-function:ease-in-out ;
+}
+div{
+    color: white;
+    font-family: 'Playwrite AU VIC Guides';
+    font-size: 60px;
 }
